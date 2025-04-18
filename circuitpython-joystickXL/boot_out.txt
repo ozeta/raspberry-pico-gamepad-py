@@ -1,0 +1,5 @@
+Adafruit CircuitPython 9.2.7 on 2025-04-01; Waveshare RP2350-Zero with rp2350
+Board ID:waveshare_rp2350_zero
+UID:3EBCF7E34995896D
+boot.py output:
++ Enabled JoystickXL 0.4.3 with 0 axes, 1 buttons and 1 hats for a total of 2 report bytes.
